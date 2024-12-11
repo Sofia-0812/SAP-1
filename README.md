@@ -3,6 +3,7 @@ Este projeto busca a melhoria e expansão funcional da arquitetura do processado
 
 Esse projeto foi uma modificação do trabalho feito pelo grupo do:
 - André Luís Silva de Paula
+  
 Acrescentando as funcionalidades presentes no trabalho feito pelo grupo do:
 - Gabriel Jota Lizardo
 
